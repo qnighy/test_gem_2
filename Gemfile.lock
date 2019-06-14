@@ -1,3 +1,10 @@
+GIT
+  remote: https://github.com/qnighy/test_gem_1.git
+  revision: a8c11a3c8b3dfc1ede2e6885395c3409d60975a6
+  tag: v0.1.0
+  specs:
+    test_gem_1 (0.1.0)
+
 PATH
   remote: .
   specs:
@@ -34,6 +41,7 @@ DEPENDENCIES
   rake (~> 10.0)
   rspec (~> 3.0)
   rubygems-tasks (~> 0.2)
+  test_gem_1!
   test_gem_2!
   yard (~> 0.8)
 
