@@ -5,11 +5,6 @@ GIT
   specs:
     test_gem_1 (0.1.0)
 
-PATH
-  remote: .
-  specs:
-    test_gem_2 (0.1.0)
-
 GEM
   remote: https://rubygems.org/
   specs:
@@ -42,7 +37,6 @@ DEPENDENCIES
   rspec (~> 3.0)
   rubygems-tasks (~> 0.2)
   test_gem_1!
-  test_gem_2!
   yard (~> 0.8)
 
 BUNDLED WITH
